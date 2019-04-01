@@ -1,0 +1,26 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "A simple chatApp with login system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinkmr/chatApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinkmr/chatApp/issues"
+  },
+  "homepage": "https://github.com/jatinkmr/chatApp#readme",
+  "dependencies": {
+    "@types/mongodb": "^3.1.22",
+    "express": "^4.16.4",
+    "hbs": "^4.0.3",
+    "mongodb": "^3.2.2",
+    "socket.io": "^2.2.0"
+  }
+}

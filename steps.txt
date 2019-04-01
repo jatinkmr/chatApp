@@ -1,0 +1,4 @@
+npm init
+npm install express mongodb socket.io hbs
+mongod --dbpath=./dataBase
+npm install @types/mongodb
