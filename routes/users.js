@@ -6,7 +6,9 @@ const User = require('../Models/Users');
 
 // Register Form
 router.get('/register', (req, res) => {
-	return res.sendFile(path.join(__dirname + '/views/register'));
+	return res.sendFile(
+		path.join(__dirname + '/views/register')
+	);
 });
 
 // Register Process
