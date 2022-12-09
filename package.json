@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jatinkmr/chatApp#readme",
   "dependencies": {
     "@types/mongodb": "^3.1.22",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hbs": "^4.0.3",
     "mongodb": "^3.2.2",
     "mongoose": "^5.4.20",
